@@ -1,9 +1,12 @@
 {
   "name": "azure-node2",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "start": "node app.js"
+  },
+  "engines": {
+    "node": "6.3.0"
   },
   "dependencies": {
     "express": "^4.13.3",
